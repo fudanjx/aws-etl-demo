@@ -1,0 +1,15 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "jx-parquet-test"
+        },
+        "object": {
+          "key": "source/AH_DE_20230801.zip"
+        }
+      }
+    }
+  ]
+}
+

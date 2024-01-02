@@ -1,0 +1,4 @@
+awswrangler
+boto3
+zipfile36
+pandas
